@@ -1,0 +1,15 @@
+.CSSMWigdetWrap .colorSelector {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border: 1px solid black;
+  vertical-align: text-bottom;
+}
+
+.CSSMWigdetWrap .colorInput{
+  margin-left: 5px;
+}
+
+.CSSMWigdetWrap .colorInput:before {
+  content: "#";
+}
